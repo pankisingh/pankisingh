@@ -32,7 +32,7 @@ I worked with multiple international clients and in multiple distributed but tig
 
 <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/aws.gif"  height="80" /> 
+    <img src="https://github.com/pankisingh/pankisingh/blob/main/static/aws.gif"  height="80" /> 
   </a>
  </p>
 
@@ -40,22 +40,22 @@ I worked with multiple international clients and in multiple distributed but tig
 
 <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/gdocker.gif"  height="80" /> 
+    <img src="https://github.com/pankisingh/pankisingh/blob/main/static/gdocker.gif"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/kuber.gif"  height="75" />
+    <img src="https://github.com/pankisingh/pankisingh/blob/main/static/kuber.gif"  height="75" />
   </a>
   <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/Jenkins-4.gif"  height="65" />
+    <img src="https://github.com/pankisingh/pankisingh/blob/main/static/Jenkins-4.gif"  height="65" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/terraform.gif" width="120" />
+    <img src="https://github.com/pankisingh/pankisingh/blob/main/static/terraform.gif" width="120" />
   </a>
     <a href="https://hubot.github.com/" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/electric.gif" height="80" width="60" />
+    <img src="https://github.com/pankisingh/pankisingh/blob/main/static/electric.gif" height="80" width="60" />
   </a>
     <a href="https://www.ansible.com/" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/ansible.gif" width="120" />
+    <img src="https://github.com/pankisingh/pankisingh/blob/main/static/ansible.gif" width="120" />
   </a>
  </p>
     
@@ -63,20 +63,20 @@ I worked with multiple international clients and in multiple distributed but tig
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/grafana.gif" height="60" />&nbsp;&nbsp;
+    <img src="https://github.com/pankisingh/pankisingh/blob/main/static/grafana.gif" height="60" />&nbsp;&nbsp;
   </a>
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/prometheus.gif" height="65" />
+    <img src="https://github.com/pankisingh/pankisingh/blob/main/static/prometheus.gif" height="65" />
   </a>
   <a href="https://www.splunk.com/en_us" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/splunk.gif" height="60" />
+    <img src="https://github.com/pankisingh/pankisingh/blob/main/static/splunk.gif" height="60" />
   </a>
 </p>
 ### Databases
   
  <p float="left">
   <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://github.com/amarkotasky/amarkotasky/blob/main/static/myql.png" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/pankisingh/pankisingh/blob/main/static/myql.png" height="90" />&nbsp;&nbsp;
   </a>
 </p>
 
