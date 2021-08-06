@@ -82,6 +82,6 @@ I worked with multiple international clients and in multiple distributed but tig
 
 ### 🎧 am one click away from you .. 
 
-  ⦿ Visit my [Website](http://www.pankisingh.co.in) 🔮 <br>
+  ⦿ Visit my [Website](https://linktr.ee/panki044) 🔮 <br>
   ⦿ Connect with me on [LinkedIn](https://https://www.linkedin.com/in/pankaj-singh044/) 🎀 <br>
   ⦿ semd me an [Email](mailto:pankisingh050@gmail.com) 📧 <br>
