@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I am [Pankaj Singh], a passionate and creative DevOps engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pankisingh&show_icons=true&hide_border=true" />
+![my github stats](https://github-readme-stats.vercel.app/api?username=amarkotasky&count_private=true&show_icons=true&theme=merko)
 
 I mostly work on DevOps with Cloud-Native technologies.🚀 I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Terraform, AWS, CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana, promethues, splunk, etc.
 
