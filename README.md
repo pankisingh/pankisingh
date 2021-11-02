@@ -78,7 +78,7 @@ I worked with multiple international clients and in multiple distributed but tig
   </a>
 </p>
 
-### 🎧 am one click away from you ....
+### 🎧 am one click away from you ...
 
   ⦿ Visit my [Website](https://linktr.ee/panki044) 🔮 <br>
   ⦿ Connect with me on [LinkedIn](https://https://www.linkedin.com/in/pankaj-singh044/) 🎀 <br>
